@@ -46,7 +46,7 @@ https://www.iconfinder.com/webalys */}
         >
           <span className='navbar-toggler-icon' />
         </button>
-        <div className={'this.state.css'}>
+        <div className={this.state.css}>
           <ul className='navbar-nav mx-auto'>
             {this.state.links.map(link => {
               return (
